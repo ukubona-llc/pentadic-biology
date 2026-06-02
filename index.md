@@ -338,10 +338,8 @@ The architecture of Ukubona LLC seamlessly operationalizes the pentadic axiom, s
 
 The schematic shown in "fgt.png" perfectly visualizes the underlying logic powering this entire ecosystem. The classic artificial neuron is a direct corollary to the clinical state equation we discussed:
 
-```markdown
 $$ y_{\text{pred}} = f\left( \sum_{i=1}^{n} w_i X_i + b \right) $$
 
-```
 
 When we project the pentadic axiom onto this topology:
 
