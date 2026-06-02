@@ -1709,7 +1709,9 @@ Your original pentad is cleaner.
 
 The corresponding equation already reflects it:
 
-[\log(x)]*{Nonself}=[b_0+b_1S]*{Input}+[b_2V_i]*{Throughput}+[b_3V*{aS}+b_4V_{aF}]*{Output}+[\Omega]*{Self}
+$$
+\log(x)]*{Nonself}=[b_0+b_1S]*{Input}+[b_2V_i]*{Throughput}+[b_3V*{aS}+b_4V_{aF}]*{Output}+[\Omega]*{Self}
+$$
 
 which gives:
 
