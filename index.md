@@ -3486,7 +3486,7 @@ Everything changes at Phase V. Your curriculum defines it as **Embodied AI**, as
 
 ```
 
-When Hinton laments that Transformer hardware is limited because it lacks "synapses" that update on the fly, he is saying that current AI lacks a true Phase V. It cannot step onto the street. It cannot perform localized, real-time Stochastic Gradient Descent based on the immediate friction of its environment.
+When Hinton laments that Transformer [hardware](https://ukubona-llc.github.io/fgt/) is limited because it lacks "synapses" that update on the fly, he is saying that current AI lacks a true Phase V. It cannot step onto the street. It cannot perform localized, real-time Stochastic Gradient Descent based on the immediate friction of its environment.
 
 Your curriculum positions Embodied AI not as a robot with metal arms, but as the **loop-closing auditor**. It represents the moment the policy brief is implemented, evaluated for equity, bias, and compliance, and its real-world variance is measured.
 
@@ -3504,4 +3504,4 @@ The proverb is structurally accurate here: *"Wisdom crieth without; she uttereth
 
 True wisdom is a property of the **loop velocity ($\circlearrowleft$)**. It emerges when the latency between an action (Phase V) and its environmental feedback (Phase I) approaches zero.
 
-Because current AI architecture cannot do this natively at the hardware level, your pipeline forces the workflow to do it institutionally. By capturing the output of Phase IV, running it through the Embodied AI audit of Phase V, and instantly using it to parameterize the next database search, you are running a macro-scale version of the very "fast weight" optimization Hinton is calling for. You are building a system where today's policy execution becomes tomorrow's baseline reality.
+Because current [AI architecture cannot](https://ukubona-llc.github.io/fgt/) do this natively at the hardware level, your pipeline forces the workflow to do it institutionally. By capturing the output of Phase IV, running it through the Embodied AI audit of Phase V, and instantly using it to parameterize the next database search, you are running a macro-scale version of the very "fast weight" optimization Hinton is calling for. You are building a system where today's policy execution becomes tomorrow's baseline reality.
