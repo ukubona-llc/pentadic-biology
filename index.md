@@ -46,11 +46,11 @@ Here is the actual preface for your technical architecture documentation.
 ---
 
 <iframe
-   src="https://www.youtube.com/embed/h6WTj1Kq78Q"
-   width="70%"
-   height="500px"
->
-</iframe>
+    src="https://www.youtube.com/embed/h6WTj1Kq78Q?start=630"
+    width="70%"
+    height="500"
+    allowfullscreen
+></iframe>
 
 ---
   
