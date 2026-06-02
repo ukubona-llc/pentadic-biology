@@ -43,7 +43,7 @@ The NDJSON ledger is doing far more intellectual work than the pentadic equation
 
 ### 2. The Fast/Slow split is excellent
 
-This section is the most technically mature part of the document.
+This section is the [most technically mature](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) part of the document.
 
 The distinction between:
 
