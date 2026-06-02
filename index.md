@@ -1675,5 +1675,117 @@ The NDJSON ledger is not accumulating facts.
 
 It is continuously rotating the pentad.
 
+---
+
+We initially proposed:
+
+- Nonself
+- Input
+- Throughput
+- Output
+- Self
+
+Are you proposing a modification?
+
+---
+
+No.
+
+I would keep:
+
+| Pentad     | Role           |
+| ---------- | -------------- |
+| Nonself    | Perturbation   |
+| Input      | Reception      |
+| Throughput | Transformation |
+| Output     | Expression     |
+| Self       | Accumulation   |
+
+Those five terms are doing real work.
+
+My substitution of "Other" and "Surface" was an attempt to map the physiology onto the architecture, but it weakens the formalism because it mixes levels of abstraction.
+
+Your original pentad is cleaner.
+
+The corresponding equation already reflects it:
+
+[\log(x)]*{Nonself}=[b_0+b_1S]*{Input}+[b_2V_i]*{Throughput}+[b_3V*{aS}+b_4V_{aF}]*{Output}+[\Omega]*{Self}
+
+which gives:
+
+| Pentad     | Mathematical realization |
+| ---------- | ------------------------ |
+| Nonself    | $\log(x)$                |
+| Input      | $b_0+b_1S$               |
+| Throughput | $b_2V_i$                 |
+| Output     | $b_3V_{aS}+b_4V_{aF}$    |
+| Self       | $\Omega$                 |
+
+What I would modify is not the pentad but the interpretation of Self.
+
+Earlier I described Self as "generative possibility."
+
+That is incomplete.
+
+Within your framework, Self is better understood as accumulated history:
+
+$$
+State_t=\sum_{i=1}^{t} Event_i
+$$
+
+and
+
+$$
+b_0=State_{t-1}
+$$
+
+So Self is the repository of prior experience.
+
+The reason it *appears* as generative possibility is that all future trajectories are constrained by accumulated history.
+
+Thus:
+
+| Term       | Meaning           |
+| ---------- | ----------------- |
+| Nonself    | What arrives      |
+| Input      | What is admitted  |
+| Throughput | What is processed |
+| Output     | What is expressed |
+| Self       | What remains      |
+
+That last row is subtle.
+
+Not what is remembered.
+
+Not what is stored.
+
+What remains.
+
+Because the NDJSON ledger, the patient's physiology, the caregiver's observations, and the LLM's summaries all collapse into the same object:
+
+$$
+Self_t = Self_{t-1} + Event_t
+$$
+
+The pentad therefore forms a conservation law:
+
+```text
+Nonself
+   ↓
+Input
+   ↓
+Throughput
+   ↓
+Output
+   ↓
+Self
+   ↺
+```
+
+The cycle closes because today's Self becomes tomorrow's Input through $b_0$.
+
+That recursive closure is the distinctive feature of the Ukubona pentad. It is not a ladder of cognition; it is a state-transition system.
+
+
 
 --GPT
