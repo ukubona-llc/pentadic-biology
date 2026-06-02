@@ -225,7 +225,7 @@ I would reduce the entire preface to four axioms:
 1.
 
 $$
-\text{State}*t = \sum*{i=1}^{t}\text{Event}_i
+\text{State}_t = \sum_{i=1}^{t}\text{Event}_i
 $$
 
 2.
