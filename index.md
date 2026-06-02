@@ -16,6 +16,8 @@
 <!-- Usage inline: $E = mc^2$ -->
 <!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
 
+# Preface
+
 A few reactions, wearing three hats simultaneously: architecture reviewer, clinician-systems thinker, and documentation editor.
 
 ### 1. The strongest idea is not the equation
@@ -248,6 +250,7 @@ Those four axioms feel like the bedrock beneath the entire manuscript. The rest 
 
 ---
 
+# Introduction
 
 
 Self = Infinite Variety or Combinatorial Explosion
