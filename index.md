@@ -116,7 +116,8 @@ For example:
 
 $$
 \Omega
-======
+
+=
 
 \text{interaction tensor}
 $$
