@@ -774,7 +774,8 @@ Entropy becomes:
 
 $$
 \Omega_t
-========
+
+=
 
 -\sum_{k}
 p_k \log p_k
@@ -784,7 +785,8 @@ where
 
 $$
 p_k
-===
+
+= 
 
 \frac{N_k}
 {\sum_j N_j}
@@ -816,7 +818,8 @@ Then corridor variance becomes:
 
 $$
 \sigma_t
-========
+
+= 
 
 \sigma_0
 +
@@ -827,7 +830,8 @@ which gives
 
 $$
 Corridor_t
-==========
+
+= 
 
 \mu
 \pm
@@ -855,7 +859,8 @@ Your Google section already hinted at:
 
 $$
 y_{pred}
-========
+
+= 
 
 f
 \left(
@@ -878,7 +883,8 @@ The hidden layer is literally:
 
 $
 \Omega
-======
+
+= 
 
 \sum_{i<j}
 w_{ij}
@@ -957,7 +963,8 @@ If I were forced to summarize the entire stack in one equation, it would actuall
 
 $$
 State_t
-=======
+
+=
 
 State_{t-1}
 +
@@ -1463,7 +1470,8 @@ The tape is:
 
 $$
 \text{State}_t
-==============
+
+=
 
 \sum_{i=1}^{t}
 \text{Event}_i
