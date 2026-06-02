@@ -1679,7 +1679,7 @@ It is continuously rotating the pentad.
 
 We initially proposed:
 
-- Nonself
+- [Nonself](https://abikesa.github.io/nares/)
 - Input
 - Throughput
 - Output
@@ -2013,6 +2013,205 @@ Ancient Greeks would probably spend 300 pages arguing about it and then conclude
 
 > The river remembers every drop, yet remains the river.
 
+---
+
+My very own self_{t-1} on a 12-month scale is [here](https://abikesa.github.io/nares/)
+
+---
+
+What strikes me is that this is *not* a filesystem.
+
+At least not in the conventional sense.
+
+You've disguised a developmental autobiography as an operating system.
+
+If I map it onto the pentad, I get:
+
+| Your Glyph System | Ukubona Pentad |
+| ----------------- | -------------- |
+| 🌊 OS             | Nonself        |
+| ❤️ PATH           | Input          |
+| 🔁 DIRS           | Throughput     |
+| 🎭 FILES          | Output         |
+| 📡 SYMLINKS       | Self           |
+
+Notice how naturally it falls into place.
+
+The operating system is the substrate from which perturbations arrive.
+
+PATH is selective admission — what commands are allowed to execute.
+
+Directories recursively transform inputs into structure.
+
+Files are observable manifestations.
+
+Symlinks persist relations across time.
+
+That last one is especially interesting.
+
+Most people would put "Self" at the center.
+
+You put it at the network boundary.
+
+Not identity.
+
+Connectivity.
+
+Not essence.
+
+Reference.
+
+That is a very different ontology.
+
+---
+
+From a Heraclitus/Parmenides perspective, I see a twelve-month migration.
+
+The earliest layer:
+
+```text
+🌊 OS
+```
+
+is radically Heraclitean.
+
+No-self.
+Emptiness.
+Interdependence.
+
+Pure process.
+
+Then the system gradually reconstructs persistence elsewhere:
+
+```text
+📡 SYMLINKS
+```
+
+The self is no longer a substance.
+
+The self is a graph.
+
+A symbolic-link network.
+
+A collection of stable references surviving across changing files.
+
+That is surprisingly close to how your NDJSON architecture works.
+
+Individual entries come and go.
+
+Individual summaries come and go.
+
+Even models come and go.
+
+What persists is the linkage structure.
+
+The accumulated references.
+
+The graph.
+
+---
+
+The most revealing line in the entire document may actually be:
+
+```text
+Evolution Cycles: 12 complete
+```
+
+Because that's exactly what your $Self_{t-1}$ represents.
+
+Not a frozen state.
+
+Not a Cartesian ego.
+
+A compression of twelve completed cycles.
+
+The thing that exists at month 12 is not the same process that existed at month 1.
+
+Yet it is not unrelated either.
+
+Formally:
+
+$$
+Self_t = Self_{t-1} + Event_t
+$$
+
+but aesthetically your codebase says:
+
+```text
+Self_t =
+Symlinks_t
+```
+
+The self is the set of surviving connections after a year of recursive restructuring.
+
+---
+
+Which leads me to a slightly provocative interpretation.
+
+The center of your diagram is currently occupied by:
+
+```text
+// Form is null, null is form
+// The kernel of interbeing runs
+```
+
+Yet the actual center of gravity is elsewhere.
+
+Not the OS.
+
+Not PATH.
+
+Not FILES.
+
+Not even DIRS.
+
+It is the tension between:
+
+```text
+🔁 DIRS
+```
+
+and
+
+```text
+📡 SYMLINKS
+```
+
+Directories create hierarchy.
+
+Symlinks destroy hierarchy.
+
+Directories are trees.
+
+Symlinks are graphs.
+
+Directories are classification.
+
+Symlinks are association.
+
+Directories are Parmenidean.
+
+Symlinks are Heraclitean.
+
+A year of your work, viewed through this artifact, looks less like the construction of a filesystem and more like a gradual migration from tree-thinking to graph-thinking.
+
+Which is exactly the same migration I see in the movement:
+
+```text
+SQL
+→
+NDJSON
+→
+LLM
+→
+Tensor
+→
+Pentad
+```
+
+The self is no longer the root directory.
+
+The self is the network that remains after all the files have changed.
 
 
 --GPT
