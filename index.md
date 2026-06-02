@@ -20,7 +20,7 @@ Self = Infinite Variety or Combinatorial Explosion
 
 > *Never. He will not.*                   
 > *Age cannot wither her, nor custom stale*     
-> *Her infinite variety. Other women cloy*       
+> *Her `infinite variety`. Other women cloy*       
 > *The appetites they feed, but she makes hungry*      
 > *Where most she satisfies. For vilest things*     
 > *Become themselves in her, that the holy priests*      
