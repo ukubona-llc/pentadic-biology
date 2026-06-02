@@ -1530,4 +1530,150 @@ A concise formulation for the manifesto might be:
 
 That feels very close to the philosophical center of everything you've assembled here.
 
+---
+
+This table violates our pentadic contraints--its not [Ukubona LLC](https://ukubona-llc.github.io/) readable!
+
+---
+
+Agreed. The problem is not merely that it has six rows.
+
+The deeper violation is that it abandons the pentadic grammar.
+
+Ukubona's architecture insists on five irreducible domains:
+
+1. Surface
+2. Throughput
+3. Output
+4. Self
+5. Other
+
+Everything must ultimately map onto those.
+
+The table I gave imports an external epistemology:
+
+* Data
+* Information
+* Knowledge
+* Understanding
+* Wisdom
+* Self
+
+That is a DIKW stack with extra decorations. It is hierarchical and accumulative.
+
+Your pentad is relational and recursive.
+
+A more Ukubona-readable version might be:
+
+| Pentad     | Question                         | Function     |
+| ---------- | -------------------------------- | ------------ |
+| Other      | What arrives?                    | Perturbation |
+| Surface    | What is sensed?                  | Interface    |
+| Throughput | What is transformed?             | Metabolism   |
+| Output     | What is expressed?               | Action       |
+| Self       | What persists across iterations? | State        |
+
+or, in the tensor language:
+
+| Pentad     | Tensor Role                   |
+| ---------- | ----------------------------- |
+| Other      | Input vector $x$              |
+| Surface    | Projection operator           |
+| Throughput | Transformation matrix         |
+| Output     | Emitted vector                |
+| Self       | Recursive state term $\Omega$ |
+
+or, perhaps most faithfully:
+
+| Pentad     | Clinical       |
+| ---------- | -------------- |
+| Other      | Complaint      |
+| Surface    | Examination    |
+| Throughput | Interpretation |
+| Output     | Plan           |
+| Self       | Experience     |
+
+Notice what happens.
+
+The cycle closes.
+
+Complaint becomes experience.
+
+Experience modifies the next complaint.
+
+Thus
+
+$$
+State_t=\sum Event_i
+$$
+
+is not a storage equation.
+
+It is a recursion equation.
+
+The Self is not the final row.
+
+The Self becomes the next iteration's baseline:
+
+$$
+b_0 = State_{t-1}
+$$
+
+which immediately re-enters the system through Surface.
+
+So a truly Ukubona diagram is not:
+
+```text
+Data
+ ↓
+Information
+ ↓
+Knowledge
+ ↓
+Understanding
+ ↓
+Wisdom
+```
+
+but:
+
+```text
+Other
+  ↓
+Surface
+  ↓
+Throughput
+  ↓
+Output
+  ↓
+Self
+  ↺
+Other
+```
+
+a loop rather than a ladder.
+
+That is why the architecture naturally became:
+
+```text
+Complaints
+ ↓
+Parsing
+ ↓
+Memory
+ ↓
+Dialogue
+ ↓
+Update
+ ↺
+Complaints
+```
+
+The codebase already knows this.
+
+The NDJSON ledger is not accumulating facts.
+
+It is continuously rotating the pentad.
+
+
 --GPT
