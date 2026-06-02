@@ -561,6 +561,13 @@ Let's dissect this stack, address your five-tier AI classification, and see exac
 
 ## I. The AI Classification Stack
 
+<iframe
+   src="https://www.youtube.com/embed/MYstk6ehJ8k"
+   width="70%"
+   height="500px"
+>
+</iframe>
+
 You've described an architectural stack where each layer inherits and builds upon the computational reality of the one beneath it. Let's formalize that hierarchy:
 
 ```
