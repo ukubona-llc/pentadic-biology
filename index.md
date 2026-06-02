@@ -37,6 +37,12 @@ Here is the actual preface for your technical architecture documentation.
 
 # ARCHITECTURAL PREFACE
 
+- Complaints / World
+- FastAPI / Parsing
+- NDJSON / Memory
+- LLMs / Dialogue
+- Update / Experience
+
 ## The Discrete Tape and the Continuous Manifold
 
 Clinical life does not unfold in neat, static summaries; it is a continuous, high-dimensional trajectory vulnerable to accelerated decay and survival drift. Traditional electronic health records fail because they attempt to capture this fluid trajectory through frozen snapshots—mutating a single "latest status" row in a database and destroying the historical path.
