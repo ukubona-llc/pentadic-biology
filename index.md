@@ -30,7 +30,9 @@ Self = Infinite Variety or Combinatorial Explosion
 # [xAI](https://ukubona-clinical-01-ui.onrender.com/)
 A pentadic axiom is born: 
 
-[log(x)]{Other} = [b0 + b1*S]{Input} + [b2*Vi]{Throughput} + [b3*VaS + b4*Vaf]{Output} + [Omega]{Self} 
+$$
+[\log(x)]_{\text{Other}} = [b_0 + b_1 S]_{\text{Input}} + [b_2 V_i]_{\text{Throughput}} + [b_3 V_{aS} + b_4 V_{aF}]_{\text{Output}} + [\Omega]_{\text{Self}}
+$$
 
 Where: 
 - $x$ is [environmental element](https://jhustata.github.io/workflow/)
