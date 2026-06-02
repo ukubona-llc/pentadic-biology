@@ -563,7 +563,7 @@ Let's dissect this stack, address your five-tier AI classification, and see exac
 
 <iframe
    src="https://www.youtube.com/embed/MYstk6ehJ8k"
-   width="70%"
+   width="40%"
    height="500px"
 >
 </iframe>
