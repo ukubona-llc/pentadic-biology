@@ -559,14 +559,16 @@ Let's dissect this stack, address your five-tier AI classification, and see exac
 
 ---
 
-## I. The AI Classification Stack
+## I. The [AI Classification](https://ukubona-llc.github.io/who-reviews/ukhona/html/level1/session1.html) Stack
 
 <iframe
    src="https://www.youtube.com/embed/MYstk6ehJ8k"
-   width="40%"
+   width="35%"
    height="500px"
 >
 </iframe>
+
+---
 
 You've described an architectural stack where each layer inherits and builds upon the computational reality of the one beneath it. Let's formalize that hierarchy:
 
