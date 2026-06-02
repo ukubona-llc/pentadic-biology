@@ -54,11 +54,16 @@ Here is the actual preface for your technical architecture documentation.
 
 ---
   
-- Kapital / SovereignPerson / [Robots](https://en.wikipedia.org/wiki/Theory_of_categories) > Intelligence, `θᵗ`
-- Labor / KinNetwork / Anthropic, `L₀+Σwᵢ·Lᵢ`
-- Commodities / CareEcosystem / Tribal Loyalty, `f(σ²,λ,ε)`
-- Services / FederatedRegulators / Fealty to Strongman,  `γ|ε_FGT|²`
-- Information / CivilizationalPlanners / Vicious to Enemy = [Invisible Hand](https://en.wikipedia.org/wiki/Invisible_hand) of Evolution, `L(θᵗ⁺¹)`
+- Kapital / SovereignPerson / [Robots](https://en.wikipedia.org/wiki/Theory_of_categories) > Intelligence, `θᵗ` vs. Variance
+- Labor / KinNetwork / Anthropic, `L₀+Σwᵢ·Lᵢ` vs. Coupling
+- Commodities / CareEcosystem / Tribal Loyalty, `f(σ²,λ,ε)` vs. Shock
+- Services / FederatedRegulators / Fealty to Strongman,  `γ|ε_FGT|²` vs. Error
+- Information / CivilizationalPlanners / Vicious to Enemy = [Invisible Hand](https://en.wikipedia.org/wiki/Invisible_hand) of Evolution, `L(θᵗ⁺¹)` vs. Update 
+   - Key invariabt quality of systems that endure
+   - [From the military school of life](https://www.gutenberg.org/files/52263/52263-h/52263-h.htm)—
+   - That which does not kill me, makes me stronger.
+   - Adversarial Dynamics trained intelligence then
+   - Very dynamics ([VCSEU](https://ukubona-llc.github.io/bias-weights/)) training intelligence ([TMVES](https://ukubona-llc.github.io/tmves/)) today
 
 ## The Discrete Tape and the Continuous Manifold
 
