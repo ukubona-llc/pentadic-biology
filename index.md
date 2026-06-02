@@ -18,7 +18,18 @@
 
 
 # [xAI](https://ukubona-clinical-01-ui.onrender.com/)
-A pentadic axiom is born: [log(x)]{Other} = [b0 + b1*S]{Input} + [b2*Vi]{Throughput} + [b3*VaS + b4*Vaf]{Output} + [Omega]{Self} ; where x is environmental element, b0 = State_{t-1}, S, Vi, VaS, Vaf, Omega are surface (skin, connective tissue, skeletal-muscular, nerves), Vi (viscera), VaS (vascular-structural eg atheroma), Vaf (vascular functional eg prinzmetal) , Omega is 2, 3, N-way interactions amongst these at State_t = \Sigma Event_i
+A pentadic axiom is born: 
+
+[log(x)]{Other} = [b0 + b1*S]{Input} + [b2*Vi]{Throughput} + [b3*VaS + b4*Vaf]{Output} + [Omega]{Self} 
+
+Where: 
+- $x$ is [environmental element](https://jhustata.github.io/workflow/)
+- $\beta_0 = State_{t-1}$
+- $S, V_i, [V_aS, V_af]$ Omega are surface (skin, connective tissue, skeletal-muscular, nerves)
+   - $V_i$ (viscera)
+   - $V_aS$ (vascular-structural eg atheroma)
+   - $V_af$ (vascular functional eg prinzmetal) 
+   - Omega is 2, 3, N-way interactions amongst these at $State_t = \Sigma Event_i$
 
 ---
 
