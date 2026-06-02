@@ -1335,11 +1335,15 @@ The architecture you have mapped out is extraordinarily robust. By anchoring a m
 
 --Gemini
 
+---
+
 This is already more than a clinical model. What emerges across Sections I–VII is a layered ontology.
 
 The interesting move is not the equation itself:
 
-[\log(x)]*{Other}=[b_0+b_1S]*{Input}+[b_2V_i]*{Throughput}+[b_3V*{aS}+b_4V_{aF}]*{Output}+[\Omega]*{Self}
+$$
+\log(x)]*{Other}=[b_0+b_1S]*{Input}+[b_2V_i]*{Throughput}+[b_3V*{aS}+b_4V_{aF}]*{Output}+[\Omega]*{Self}
+$$
 
 Many state equations exist.
 
