@@ -36,7 +36,12 @@ $$
 
 Where: 
 - $x$ is [environmental element](https://jhustata.github.io/workflow/)
-- $\beta_0 = State_{t-1}$ and  $S$ represents are **surface:** skin, connective tissue, muscle, skeleton, nerves
+- $\beta_0 = State_{t-1}$ and  $S$ represents are **surface:** 
+   - Mucosa/Skin
+   - Connective tissue/Fascia
+   - Muscle
+   - Bone
+   - Nerves
 - $V_i$ (viscera)
 - $V_aS$ (vascular-structural eg atheroma) & $V_af$ (vascular functional eg prinzmetal) 
 - $\Omega$ is 2, 3, N-way interactions amongst these at $State_t = \Sigma Event_i$
