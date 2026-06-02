@@ -23,7 +23,7 @@ A few reactions, wearing three hats simultaneously: architecture reviewer, clini
 The strongest idea is this:
 
 $$
-\text{State}*t = \sum*{i=1}^{t}\text{Event}_i
+\text{State}_t = \sum_{i=1}^{t}\text{Event}_i
 $$
 
 Everything else can evolve.
