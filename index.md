@@ -84,9 +84,9 @@ $$
 
 In other words:
 
-The patient is represented as a point in pentadic state-space.
+The patient is represented as a point in pentadic [state-space](https://en.wikipedia.org/wiki/Tensor_(machine_learning)).
 
-That is more powerful than a risk score.
+That is more powerful than a [risk score](https://en.wikipedia.org/wiki/Scalar_(mathematics)).
 
 Risk scores collapse dimensions.
 
