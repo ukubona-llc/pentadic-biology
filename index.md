@@ -228,7 +228,7 @@ Let's look at how the 82-year-old patient's parameters translate into the variab
 
 ```json
 {
-  "patient_id": "juliet-kabugo",
+  "patient_id": "jk",
   "age": 82,
   "state_variables": {
     "vascular_structural": {
@@ -924,7 +924,7 @@ So the final manifest:
 
 That's roughly 8 focused layers replacing 19 mixed ones.
 
-One question before I build: do you want the **patient slug hardcoded** (`juliet-kabugo`) for now, or should I build the login to accept a slug so the same app serves multiple patients from day one?
+One question before I build: do you want the **patient slug hardcoded** (`jk`) for now, or should I build the login to accept a slug so the same app serves multiple patients from day one?
 
 The second option costs maybe 20 extra lines and saves a painful refactor later.
 
