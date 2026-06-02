@@ -16,6 +16,16 @@
 <!-- Usage inline: $E = mc^2$ -->
 <!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
 
+Self = Infinite Variety or Combinatorial Explosion
+
+> *Never. He will not.*                   
+> *Age cannot wither her, nor custom stale*     
+> *Her infinite variety. Other women cloy*       
+> *The appetites they feed, but she makes hungry*      
+> *Where most she satisfies. For vilest things*     
+> *Become themselves in her, that the holy priests*      
+> *Bless her when she is riggish.*        
+-- [Enobarbus](https://www.gutenberg.org/files/1534/1534-h/1534-h.htm)
 
 # [xAI](https://ukubona-clinical-01-ui.onrender.com/)
 A pentadic axiom is born: 
