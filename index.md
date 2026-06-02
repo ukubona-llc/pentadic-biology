@@ -557,31 +557,31 @@ Suppose every NDJSON event is mapped into one of the pentadic compartments:
 
 Now define:
 
-[
+$$
 N_S,; N_{Vi},; N_{VaS},; N_{VaF}
-]
+$$
 
 as counts of events in a rolling window.
 
 Entropy becomes:
 
-[
+$$
 \Omega_t
 ========
 
 -\sum_{k}
 p_k \log p_k
-]
+$$
 
 where
 
-[
+$$
 p_k
 ===
 
 \frac{N_k}
 {\sum_j N_j}
-]
+$$
 
 ---
 
@@ -607,29 +607,29 @@ You have now converted Ω from a metaphor into a measurable quantity.
 
 Then corridor variance becomes:
 
-[
+$$
 \sigma_t
 ========
 
 \sigma_0
 +
 \lambda \Omega_t
-]
+$$
 
 which gives
 
-[
+$$
 Corridor_t
 ==========
 
 \mu
 \pm
 \sigma_t
-]
+$$
 
 Using your notation:
 
-\sigma_t = \sigma_0 + \lambda\Omega_t
+$\sigma_t = \sigma_0 + \lambda\Omega_t$
 
 The remarkable consequence:
 
@@ -646,7 +646,7 @@ The NDJSON itself determines uncertainty.
 
 Your Google section already hinted at:
 
-[
+$$
 y_{pred}
 ========
 
@@ -654,7 +654,7 @@ f
 \left(
 \sum_i w_i x_i + b
 \right)
-]
+$$
 
 but the correspondence is even tighter:
 
@@ -669,7 +669,7 @@ but the correspondence is even tighter:
 
 The hidden layer is literally:
 
-[
+$
 \Omega
 ======
 
@@ -681,7 +681,7 @@ x_i x_j
 w_{ijk}
 x_i x_j x_k
 +\cdots
-]
+$
 
 which is exactly what you described verbally as:
 
@@ -748,7 +748,7 @@ which closes the loop.
 
 If I were forced to summarize the entire stack in one equation, it would actually be:
 
-[
+$$
 State_t
 =======
 
@@ -757,7 +757,7 @@ State_{t-1}
 Event_t
 +
 \Omega_t
-]
+$$
 
 with Ω representing interaction terms not recoverable from simple addition.
 
