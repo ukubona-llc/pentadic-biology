@@ -43,6 +43,23 @@ Here is the actual preface for your technical architecture documentation.
 - LLMs / Dialogue
 - Update / Experience
 
+---
+
+<iframe
+   src="https://www.youtube.com/embed/h6WTj1Kq78Q"
+   width="70%"
+   height="500px"
+>
+</iframe>
+
+---
+  
+- Kapital / SovereignPerson / [Robots](https://en.wikipedia.org/wiki/Theory_of_categories) > Intelligence, `θᵗ`
+- Labor / KinNetwork / Anthropic, `L₀+Σwᵢ·Lᵢ`
+- Commodities / CareEcosystem / Tribal Loyalty, `f(σ²,λ,ε)`
+- Services / FederatedRegulators / Fealty to Strongman,  `γ|ε_FGT|²`
+- Information / CivilizationalPlanners / Vicious to Enemy = [Invisible Hand](https://en.wikipedia.org/wiki/Invisible_hand) of Evolution, `L(θᵗ⁺¹)`
+
 ## The Discrete Tape and the Continuous Manifold
 
 Clinical life does not unfold in neat, static summaries; it is a continuous, high-dimensional trajectory vulnerable to accelerated decay and survival drift. Traditional electronic health records fail because they attempt to capture this fluid trajectory through frozen snapshots—mutating a single "latest status" row in a database and destroying the historical path.
